@@ -1,8 +1,4 @@
 # TaskFlow
-Gestor de tareas colaborativo
-
-
-# TaskFlow (nombre tentativo)
 
 TaskFlow es un sistema colaborativo estilo Trello donde los usuarios pueden:
 
